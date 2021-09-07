@@ -46,7 +46,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.jekkogray'
                 artifactId = 'jekkoLibraries'
-                version = '1.0'
+                version = '1.3'
             }
         }
     }
